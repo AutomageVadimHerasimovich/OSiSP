@@ -1,0 +1,3 @@
+/Users/admin/Desktop/BSUIR/2 term/S4/OSiSP/dirwalk/cmake-build-debug/CMakeFiles/dirwalk.dir
+/Users/admin/Desktop/BSUIR/2 term/S4/OSiSP/dirwalk/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/admin/Desktop/BSUIR/2 term/S4/OSiSP/dirwalk/cmake-build-debug/CMakeFiles/rebuild_cache.dir
